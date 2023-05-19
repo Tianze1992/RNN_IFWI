@@ -4,7 +4,7 @@
 #### https://drive.google.com/drive/folders/1HZZ7ofv0_KDJMuf2aQzNhaTBl4x6MAwM?usp=sharing
 
 ## Citing
-If you would like to cite Deepwave, I suggest
+If you would like to cite this code, please use our papers:
 ```
 @article{sun2023implicit,
   title={Implicit seismic full waveform inversion with deep neural representation},
