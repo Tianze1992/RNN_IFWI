@@ -5,11 +5,11 @@ We introduce and analyze the elastic implicit full waveform inversion (EIFWI) of
 
 
 Prediction history for $V_{p}$
-<img src="https://github.com/Tianze1992/RNN_IFWI/blob/main/saved_files/Capture1.PNG" width="1000">
+<img src="https://github.com/Tianze1992/RNN_IFWI/blob/main/saved_files/Capture1.PNG" width="2000">
 Prediction history for $V_{s}$
-<img src="https://github.com/Tianze1992/RNN_IFWI/blob/main/saved_files/Capture2.PNG" width="1000">
+<img src="https://github.com/Tianze1992/RNN_IFWI/blob/main/saved_files/Capture2.PNG" width="2000">
 Prediction history for $\rho$
-<img src="https://github.com/Tianze1992/RNN_IFWI/blob/main/saved_files/Capture3.PNG" width="1000">
+<img src="https://github.com/Tianze1992/RNN_IFWI/blob/main/saved_files/Capture3.PNG" width="2000">
 #### The elastic models used in the notbook can be downloaded from the following link.
 #### https://drive.google.com/drive/folders/1HZZ7ofv0_KDJMuf2aQzNhaTBl4x6MAwM?usp=sharing
 
