@@ -11,7 +11,7 @@ Prediction history for $V_{s}$
 Prediction history for $\rho$
 <img src="https://github.com/Tianze1992/RNN_IFWI/blob/main/saved_files/Capture3.PNG" width="2000">
 #### The elastic models used in the notbook can be downloaded from the following link.
-#### https://drive.google.com/drive/folders/1HZZ7ofv0_KDJMuf2aQzNhaTBl4x6MAwM?usp=sharing
+#### https://drive.google.com/drive/folders/1hF5ra9MhIh5KZF5Jb4BK1Yw_1AKfKFKR?usp=sharing
 
 ## Citing
 If you would like to cite this code, please use our papers:
